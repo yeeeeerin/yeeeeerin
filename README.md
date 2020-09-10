@@ -16,11 +16,11 @@ I like to talk about development, so I wanna talk about it together. Besides spr
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeeeeerin&theme=great-gatsby&show_icons=true" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=yeeeeerin&theme=great-gatsby&show_icons=true" height="150">
 
 <a href="https://solved.ac/hepari2154">
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hepari2154" height="200">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hepari2154" height="150">
 
 </a>
 
