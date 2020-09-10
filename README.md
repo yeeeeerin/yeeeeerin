@@ -7,14 +7,10 @@ I like to talk about development, so I wanna talk about it together. Besides spr
 
 ## My values
 💎 Whatever you are, be a good one.
-
 🎯 Challenge failure
-
 🙌 Shared understanding and consensus
 
 ---
-
-
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=yeeeeerin&theme=great-gatsby&show_icons=true" height="125">
