@@ -20,7 +20,7 @@ I like to talk about development, so I wanna talk about it together. Besides spr
 
 ---
 
-[![solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=yeeeeerin)](https://solved.ac/yeeeeerin)
+[![solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=hepari2154)](https://solved.ac/hepari2154)
 
 ![Yeeeeerin's github stats](https://github-readme-stats.vercel.app/api?username=yeeeeerin&theme=great-gatsby&show_icons=true)
 
