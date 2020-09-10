@@ -17,9 +17,9 @@ I like to talk about development, so I wanna talk about it together. Besides spr
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=yeeeeerin&theme=great-gatsby&show_icons=true" height="110">
+<img src="https://github-readme-stats.vercel.app/api?username=yeeeeerin&theme=great-gatsby&show_icons=true" height="125">
 <a href="https://solved.ac/hepari2154">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hepari2154" height="110">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hepari2154" height="125">
 </a>
 </div>
 
