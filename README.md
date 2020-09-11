@@ -9,7 +9,7 @@ I like to talk about development, so I wanna talk about it together. Besides spr
 💎 Whatever you are, be a good one.
 
 🎯 Challenge failure
-
+ 
 🙌 Shared understanding and consensus
 
 ---
