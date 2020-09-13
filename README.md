@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Yerin Lee, 25 years old and majoring in Computer Science.
 
-I'm a back-end developer and currently studying Java and Spring Boot. I really like Java..hhhh😆 These days, my main concern is Reactive Programming, TDD, DDD and so on... I have experience in external activities related to the project and I'm currently studying steadily. 
+I'm a back-end developer and currently studying Java and Spring Boot.These days, my main concern is Reactive Programming, TDD, DDD and so on... I have experience in external activities related to the project and I'm currently studying steadily. 
 
 I like to talk about development, so I wanna talk about it together. Besides spring, I'm also interested in Dev Ops like Docker, AWS and Jenkins!
 
